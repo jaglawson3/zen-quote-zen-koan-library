@@ -59,37 +59,25 @@
   }
   }],
   koans: [{
-    title:"Letter to a Dying Man"
-    text: "Bassui wrote the following letter to one of his disciples who was about to die:" +
-    "'The essence of your mind is not born, so it will never die. It is not an " +
-    "existence, which is perishable. It is not an emptiness, which is a mere void." +
-    " It has neither color nor form. It enjoys no pleasures and suffers no pains." +
-    "I know you are very ill. Liek a good Zen student, you are facing that sickness" +
-    " squarely. You may not know exactly who is suffering, but question yourself:" +
-    " What is the essence of this mind? Think only of this. You will need no more." +
-    " Covet nothing. Your end which is endless is as a snowflake dissolving in the pure air."
+    title:"A Philosopher Asks Buddha",
+    text: "A philosopher asked Buddha: `Without words, without the wordless, "
+    "will you you tell me truth?' The Buddha kept silent. The philosopher bowed" +
+    " and thanked the Buddha, saying: `With your loving kindness I have cleared" +
+    " away my delusions and entered the true path.'After the philosopher had " +
+    "gone, Ananda asked the Buddha what he had attained. The Buddha replied, " +
+    "`A good horse runs even at the shadow of the whip.'",
+    source: "source - The Gateless Gate (13th Century China)"
   },{
-    title:"Right and Wrong"
-    text: "When Bankei held his seclusion-weeks of meditation, pupils from many"+
-    " parts of Japan came to attend. During one of these gatherings a pupil was" +
-    " caught stealing. The matter was reported to Bankei with the request that" +
-    " the culprit be expelled. Bankei ignored the case. Later the pupil was " +
-    "caught in a similar act, and again bankei disregarded the matter. this " +
-    "angered the other pupils, who drew up a petition asking for the dismissal " +
-    "of the thief, stating that otherwise they woudl leave in a body." +
-    "When bankei had read the petition he called everyone before him. 'You are" +
-    " wise brothers,' he told them. 'You know what is right and what is not " +
-    "right. You may somewhere else to study if ou wish, but this poor brother " +
-    "does not even know right from wrong. Who will teach him if I do not? I am " +
-    "going to keep him here even if all the rest of you leave.' A torrent of " +
-    "tears cleansed the face of the brother who had stolen. All desire to steal" +
-    " had vanished."
+    title:"",
+    text: "",
+    source: ""
   },{
-    title:
-    text: "When an ordinary man attains knowledge, he is a sage; when a sage " +
-    "attains understanding, he is an ordinary man."
+    title:"",
+    text: "",
+    source: ""
   },{
-    title:
-    text:""
+    title:"",
+    text:"",
+    source:""
   }]
 }
