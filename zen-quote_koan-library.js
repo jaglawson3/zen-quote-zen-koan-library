@@ -70,9 +70,48 @@
     "text":"Daibai asked Baso: `What is Buddha?' Baso said: `This mind is Buddha.'",
     "source":"- The Gateless Gate (13th Century China)"
     },{
-      "title":"Without Words, Without Silence",
-      "text":"A monk asked Fuketsu: `Without speaking, without silence, how can you express the truth?' Fuketsu observed: `I always remember spring-time in southern China. The birds sing among innumerable kinds of fragrant flowers.'",
-      "source":"- The Gateless Gate (13th Century China)"
+    "title":"Without Words, Without Silence",
+    "text":"A monk asked Fuketsu: `Without speaking, without silence, how can you express the truth?' Fuketsu observed: `I always remember spring-time in southern China. The birds sing among innumerable kinds of fragrant flowers.'",
+    "source":"- The Gateless Gate (13th Century China)"
+    },{
+    "title":"The Ultimate Path is Without Difficulty",
+    "text":"Chao-chou, teaching the assembly, said, 'The Ultimate Path is without difficulty; just avoid picking and choosing. As soon as there are words spoken, this is picking and choosing, this is clarity. This old monk does not abide within clarity; do you still preserve anything or not?' At that time a certain monk asked, 'Since you do not abide within clarity, what do you preserve?' Chao-chou replied, 'I don't know either.' The monk said, 'Since you don't know, Teacher, why do you nevertheless say that you do not abide within clarity?' Chao-chou said, 'It is enough to ask about the matter; bow and withdraw.'",
+    "source":"- The Blue Cliff Record (11th Century China)"
+    },{
+    "title":"Yun Men’s Appropriate Statement ",
+    "text":"A monk asked Yun Man, 'What are the teachings of a whole lifetime?'Yun Men said, 'An appropriate statement.'",
+    "source":"- The Blue Cliff Record (11th Century China)"
+    },{
+    "title":"Huang Po's Gobblers of Dregs",
+    "text":"Huang Po, instructing the community, said, 'All of you people are gobblers of dregs; if you go on traveling around this way, where will you have Today? Do you know that there are no teachers of Ch'an in all of China?' At that time a monk came forward and said, 'Then what about those in various places who order followers and lead communities?' Huang Po said, 'I do not say that there is no Ch'an, it's just that there are no teachers.'",
+    "source":"- The Blue Cliff Record (11th Century China)"
+    },{
+    "title":"Chih Men's Lotus Flower, Lotus Leaves",
+    "text":"A monk asked Chih Men, 'How is it when the lotus flower has not yet emerged from the water?' Chih Men said, 'A Lotus flower.' The monk said, 'What about after it has emerged from the water?' Men said, 'Lotus leaves.'",
+    "source":"- The Blue Cliff Record (11th Century China)"
+    },{
+    "title":"",
+    "text":"",
+    "source":""
+    },{
+    "title":"",
+    "text":"",
+    "source":""
+    },{
+    "title":"",
+    "text":"",
+    "source":""
+    },{
+    "title":"",
+    "text":"",
+    "source":""
+    },{
+    "title":"",
+    "text":"",
+    "source":""
+    },{
+    "title":"",
+    "text":"",
+    "source":""
     }]
 }
-
